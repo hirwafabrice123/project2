@@ -13,12 +13,7 @@ ul{
     display: flex;
     flex-direction: column;
 }
-.logo{
-    display: flex;  
-    flex-direction: row;
-    margin-top: 40px;
-    margin-left: 20px;
-}
+
 .navigation .nav .nav-list{
     display: inline;
    
@@ -30,9 +25,15 @@ ul{
  margin: 20px;   
     
 }
-h1{
-    text-decoration: none;
+button{
+    width: 20%;
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+    text-align: center;
+    
 }
+
 h2{
     text-align: center;
 
@@ -64,4 +65,7 @@ img{
 }
 .team .image .image1{
     margin: 30px;
+}
+h5{
+    
 }
